@@ -1,3 +1,3 @@
 print("Hi I'm Amelia")
 
-print("This line is to make a merge conflict")
+print("Changing the same line in the same file")
