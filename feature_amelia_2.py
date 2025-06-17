@@ -2,4 +2,4 @@
 
 date = "20250619"
 
-print("Today is {date}")
+print(f"Today is {date}")
